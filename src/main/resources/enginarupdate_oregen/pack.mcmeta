@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 101,
+    "min_format": 101,
+    "max_format": 101,
+    "description": "EnginarUpdate: maden jenerasyonu duzenlemeleri (gold ore, diamond ore, ancient debris)"
+  }
+}

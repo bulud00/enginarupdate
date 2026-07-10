@@ -1,0 +1,7 @@
+name: EnginarUpdate-v1.1
+version: '1.1'
+main: com.enginarupdate.plugin.EnginarUpdatePlugin
+bootstrapper: com.enginarupdate.plugin.EnginarUpdateBootstrap
+description: Custom game mechanics, recipes, and ore generation adjustments for the EnginarUpdate server
+author: EnginarUpdate
+api-version: '26.1.2'
