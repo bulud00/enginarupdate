@@ -1,7 +1,7 @@
 # EnginarUpdate Plugin — v1.1 (EnginarUpdate)
 
 A [Paper](https://papermc.io/) plugin for Minecraft **26.1.2** that reworks combat balance,
-mob loot, item mending, crafting recipes, and ore world generation for the EnginarUpdate
+mob loot, item mending, crafting recipes, and ore world generation for the EnginarCraft
 server. This document describes **every single change** the plugin makes, always compared
 against unmodified vanilla behavior, in the order a player would actually encounter them.
 
@@ -220,7 +220,7 @@ from chest loot (§2), Netherite gear now has exactly one route, start to finish
      still exists for all 10 gear pieces, but the "addition" material is now **Blaze Rod
      instead of Netherite Ingot.**
 
-     ![Diamond to Netherite Sword smithing upgrade](assets/recipes/smithing_diamond_sword.png)
+     ![Diamond to Netherite Sword smithing upgrade](assets/recipes/netherite_hoe_smithing.png)
 
      *(All 10 armor/tool pairs use this same Template + Diamond-piece + Blaze Rod layout —
      see the full list in §9.)*
