@@ -300,6 +300,11 @@ from chest loot (§2), Netherite gear now has exactly one route, start to finish
   by the time you can afford this recipe, you've already built the economy in §4 and §6 from
   the ground up.
 
+  **Creator Note:** I'm actually against this feature and I wasn't planning to add something
+  about mending elytra. This feature was asked by active members of EnginarCraft server, so
+  I've decided to adding the recipe. But I'm highly recommending to remove this recipe. 
+  **If you want to remove this recipe, remove the lines 197-208 from /src/main/recipes/RecipeManager.java**
+
 ---
 
 ## 5. World generation
